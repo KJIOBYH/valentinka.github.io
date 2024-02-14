@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(252,232,227); 
+    color: rgb(255, 255, 255);
+}
+p {
+    color: black;
+}
+.one {
+    color: cadetblue;
+}
+#id1 {
+    color: chartreuse;
+}
+div { color: black;}
+.header { text-align: center;}
+.aside {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.content {
+    width: 50%;
+    float: left;
+}
+.r-aside {
+    width: 25%;
+    text-align: center;
+    float: left;
+
+}
+.footer {
+    clear: both;
+    text-align: center;
+}
+.kisa {
+    width: 80%;
+}
+#zaichik {width: 85%;
+text-align: center;
+display: block;
+margin: 0 auto;
+}
+div {color: rgba(224, 28, 191, 0.605);}
+.sprava {
+    width: 20%;
+}
+#zaichik2 {width: 60%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    }
